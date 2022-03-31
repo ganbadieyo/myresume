@@ -2,10 +2,10 @@
 
 ## 个人信息
 
-- Github: https://github.com/ganbadieyo
-- Telegram: https://t.me/iusiguoyi
+- Github: [https://github.com/ganbadieyo](https://github.com/ganbadieyo)
+- Telegram: [https://t.me/iusiguoyi](https://t.me/iusiguoyi)
 - Email: tanwei2022@gmail.com
-- Twitter：https://twitter.com/honey818181
+- Twitter：[https://twitter.com/honey818181](https://twitter.com/honey818181)
 - 年龄：23
 
 ## 教育经历
