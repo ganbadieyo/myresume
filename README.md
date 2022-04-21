@@ -23,13 +23,13 @@
 
 ## 专业技能
 
-- 熟悉Linux操作和Shell脚本。
+- 熟悉Linux操作和了解Shell脚本。
 - 熟练使用MarkDown进行用户文档手册书写。
 - 熟悉AWS，GCP，阿里云，腾讯云，青云等多家云服务器的使用和管理，有多次搭建项目的经历
 - 熟悉计算机网络，如常见的HTTP/HTTPS，TCP/IP协议等。
 - 熟悉Git操作，了解SVN，能用Git配合团队工作。
-- 了解Tomcat、 Nginx、 Apache、 IIS 等开源软件，能够部署 LNMP、 LAMP 集群。
-- 了解Docker，K8s，MySql数据库等，搭建过K8s集群，高可用有腾云忆享科技有限公司的交付工程师的结业证书。
+- 了解Tomcat、 Nginx 等开源软件，能够部署 LNMP、 LAMP 。
+- 了解Docker，K8s，MySql数据库等，有腾讯云子公司的腾讯云交付工程师的证书。
 
 ## 实习经历
 
